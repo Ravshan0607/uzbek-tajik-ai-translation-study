@@ -1,0 +1,4 @@
+I researched and collected data about two languages that have the least global usage that are Uzbek and Tajik. I was determined to find out whether “google translate” has enough data, to provide enough data for language learners, to be able to translate words and phrases from these languages, asking more than 10 questions each. To be specific, 15 in Uzbek, and 10 in Tajik. Of these 25 questions, 4 of them were right, in total. If we use these data to estimate for how many percentages does the google translate lack data for these two languages, it would approximately be over 80% each, considering there are 5 versions of speaking these languages.  
+
+
+Namely, for Uzbek, Xorazm sheva; Buxoro sheva; Jizzax sheva; Andijon sheva; Samarqand sheva; and so on. For Tajik, Sintob, Mojar, Hayat, Ohum, and Porashti. All of them use different dialects and mimics in their expressions but the same language.
